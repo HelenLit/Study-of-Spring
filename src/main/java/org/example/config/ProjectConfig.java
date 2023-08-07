@@ -16,5 +16,5 @@ with stereotype annotations, we use the @ComponentScan annotation over the confi
 class.
 * */
 @Configuration
-@ComponentScan(basePackages = "org.example.beans")
+//@ComponentScan(basePackages = "org.example.beans")
 public class ProjectConfig { }
