@@ -14,7 +14,7 @@ public class Lesson4 {
         System.out.println("Component Vehicle name from Spring Context is: " + vehicle.getName());
         vehicle.printHello();
         /*
-        Component Vehicle name from Spring Context is: null
+        Component Vehicle name from Spring Context is: Audi
         Printing Hello from Component Vehicle Bean
         */
     }
