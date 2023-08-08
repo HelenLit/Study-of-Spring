@@ -32,7 +32,7 @@ public class ProjectConfig {
     public Person person() {
         Person person = new Person();
         person.setName("Lucy");
-        //person.setVehicle(vehicle());
+        person.setVehicle(vehicle());
         return person;
     }
 

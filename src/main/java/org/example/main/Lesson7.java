@@ -20,5 +20,9 @@ public class Lesson7 {
 }
 
 /*
-Vehicle name from Spring Context is: Honda
+Vehicle bean created by Spring
+Person bean created by Spring
+Person name from Spring Context is: Lucy
+Vehicle name from Spring Context is: Toyota
+Vehicle that Person own is: Vehicle name is - Toyota
  */
